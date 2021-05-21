@@ -72,7 +72,7 @@ person.Members = "Loyce";
               }
             }
             
-            let sister = new Personality('Aisha','introvert', 'unique character');
+           let sister = new Personality('Aisha','introvert', 'unique character');
             person.Members='Aisha'
             person.introvert='introvert'
             person.behaviour='unique behaviour'
